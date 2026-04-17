@@ -759,7 +759,6 @@ if (isset($aiLinkMap[$aiKey])) {
     $aiAnalysisUrl = $skaiAiBase . rawurlencode((string) $aiLinkMap[$aiKey]);
 }
 
-
 /**
  * -------------------------------------------------
  * Generic game-aware analysis preparation
