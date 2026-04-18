@@ -2628,7 +2628,6 @@ table.skai-table tbody tr:hover{
     initAnchors();
     loadChartJsIfNeeded(function () {
       renderCharts();
-      window.addEventListener('load', renderCharts);
     });
   }
 
